@@ -292,7 +292,7 @@
           </tr>
           <tr>
             <td style="word-break: break-all;">
-              ConclusiÃ³n:
+              Conclusiones:
               No posee            </td>
           </tr>
         </tbody></table>
